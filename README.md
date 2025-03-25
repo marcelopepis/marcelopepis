@@ -1,8 +1,8 @@
 ## Olá, eu sou o Marcelo Pepis.
 
-- 🔭 Atualmente trabalhando com python, desenvolvendo chatbots, automações e Rest Api usando Django e app`s usando NodeJs em ambiente Azure.
-- 🌱 Aprendendo Django 4.0 e NLTK.
-- 💬 Me pergunte sobre: Integração com ferramentas cognitivas como MS Luis e Dialogflow.
+- 🔭 Atualmente trabalhando com Python, django, Langchain, Azure Ai e FAISS.
+- 🌱 Desenvolvendo apps com Websockets e processamento de database vetorial e LLM's.
+- 💬 Me pergunte sobre: Chatbots, RAG, Langchain e bancos de dados Vetoriais.
 
 ##
 
