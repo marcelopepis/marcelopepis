@@ -41,7 +41,6 @@
   <img height="160" src="https://github-readme-stats-two-delta-86.vercel.app/api?username=marcelopepis&show_icons=true&theme=radical&hide_border=true"/>
   <img height="160" src="https://github-readme-stats-two-delta-86.vercel.app/api/top-langs/?username=marcelopepis&layout=compact&theme=radical&hide_border=true"/>
 </p>
-```
 ---
 
 ### 🌐 Find me
