@@ -52,6 +52,12 @@
   <a href="https://medium.com/@marcelo-pepis">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/marcelo_pepis/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://steamcommunity.com/id/pixelpistola">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
   <a href="mailto:marcelo_pepis@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
