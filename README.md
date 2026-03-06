@@ -14,7 +14,7 @@
 - 🔍 Work with **vector databases** (FAISS, Azure AI Search) and LLM orchestration at scale
 - ☁️ Build on **Azure AI** — Cognitive Search, Web Apps, containers
 - 🐍 **Python-first** — LangChain, Django, FastAPI, OpenAI API
-- 🔐 Currently building [**FrameGuard**](https://github.com/marcelopepis/frameguard) — an AI-powered security framework
+- 🔐 Currently building [**FrameGuard**](https://github.com/marcelopepis/frameguard) — my AI based side project.
 
 ---
 
