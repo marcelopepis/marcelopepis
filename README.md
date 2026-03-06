@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marcelopepis&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=marcelopepis&theme=radical&hide_border=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopepis&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
