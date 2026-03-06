@@ -1,30 +1,59 @@
-## Olá, eu sou o Marcelo Pepis.
+<h1 align="center">Hey, I'm Marcelo Pepis 👋</h1>
 
-- 🔭 Atualmente trabalhando com Python, django, Langchain, Azure Ai e FAISS.
-- 🌱 Desenvolvendo apps com Websockets e processamento de database vetorial e LLM's.
-- 💬 Me pergunte sobre: Chatbots, RAG, Langchain e bancos de dados Vetoriais.
+<h3 align="center">AI Engineer | Generative AI · RAG · LLM Agents | Python · LangChain · Azure AI</h3>
 
-##
-
-![Marcelo Pepis GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopepis&show_icons=true&theme=radical)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopepis&layout=compact&theme=radical)](https://github.com/marcelopepis/github-readme-stats)
-
-##
-<div style="display: block;">
-  <p align="center">
-  <img align="center" style="padding-right:20px;" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" style="padding-right:5px;" alt="NodeJs" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" style="padding-right:5px;" alt="Django" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
-  <img align="center" style="padding-right:5px;" alt="Azure" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-    <img align="center" style="padding-right:5px;" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" style="padding-right:5px;" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
-  <img align="center" style="padding-right:5px;" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-  </p>
-</div>
-
-##
 <p align="center">
-  <a href = "mailto:marcelo_pepis@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-   badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href = "https://www.instagram.com/marcelo_pepis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "https://www.linkedin.com/in/marcelo-de-paula-pepis-56a4b0143/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href = "https://medium.com/@marcelo-pepis"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  Building AI systems that actually work in production — not just in notebooks.
+</p>
+
+---
+
+### 🧠 What I do
+
+- 🤖 Design and ship **Generative AI** solutions: RAG pipelines, LLM agents, enterprise chatbots
+- 🔍 Work with **vector databases** (FAISS, Azure AI Search) and LLM orchestration at scale
+- ☁️ Build on **Azure AI** — Cognitive Search, Web Apps, containers
+- 🐍 **Python-first** — LangChain, Django, FastAPI, OpenAI API
+- 🔐 Currently building [**FrameGuard**](https://github.com/marcelopepis/frameguard) — an AI-powered security framework
+
+---
+
+### 🛠️ Core Stack
+
+<p align="left">
+  <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/>
+  <img alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
+  <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+  <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</p>
+
+**AI/ML:** LangChain · OpenAI API · FAISS · RAG · LLM Agents · Prompt Engineering  
+**Cloud:** Azure Cognitive Search · Azure Web Apps · Containers  
+**Backend:** Python · Django · FastAPI · WebSockets · REST APIs  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marcelopepis&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopepis&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+### 🌐 Find me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/marcelo-de-paula-pepis-56a4b0143/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@marcelo-pepis">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:marcelo_pepis@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 </p>
